@@ -1,5 +1,16 @@
-This project is semi-maintained
+This project is no longer maintained
 ==========================================
+
+Facebook has *not very recently* changed the way login works for this library which has meant that the original login function is **broken**. Existing sessions and resuming a session from cookies still work, however may be broken at any time.
+
+Other options that may/may not be working are:
+
+- `fbchat-v2 by MinhHuyDev <https://github.com/MinhHuyDev/fbchat-v2>`
+- `fbchat-Ex by TimLChan <https://github.com/TimLChan/fbchat-Ex>`
+
+
+Previous description below
+----------------------------------
 
 This project is was previously maintained by `@madsmtm <https://github.com/madsmtm>`__ and `@carpedm20 <https://github.com/carpedm20>`__, but they both no longer have the time to continue to maintain the project. Therefore, this fork will try to maintain a workable solution until there is a proper maintainer available to add/modify functionality. Follow the discussion `in issue 613 <https://github.com/carpedm20/fbchat/issues/613>`__ for updates on if/when a maintainer has been found.
 
